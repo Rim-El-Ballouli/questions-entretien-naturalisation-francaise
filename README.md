@@ -22,7 +22,7 @@ AnkiApp works on Mac, Iphone, Android, Windows, Ipad. There is also a web versio
 -   [Anki App  for iOS](https://itunes.apple.com/us/app/ankiapp/id689185915?mt=8&uo=4&at=11lb5n&ct=website-footer-ios)
 -   [Anki App  for Android](https://play.google.com/store/apps/details?id=com.ankiapp.client)
 -   [Anki App  for Windows](https://www.ankiapp.com/static/AnkiApp-Windows.zip)
--  [Anki App  for Browser](https://web.ankiapp.com)
+-  [Anki App  for Web-browser](https://web.ankiapp.com)
 
 ### 2. Create an account 
 To be able to use the flashcard set, you need to create an account on AnkiApp.
