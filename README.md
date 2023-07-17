@@ -44,8 +44,8 @@ The flashcards are annotated with tags to help in grouping them by topic and fas
 - **History** Flashcard contains information about the history of France. 
 - **People** Flashcard mentions the name of a person.  Names may be hard to memorize and that is the main reason why a tag is used to easily identify the collection of flashcards that contain the name of a person. 
 - **Politics** Flashcard contains a information about polotics in France. 
-- **Personal (to update)** Flashcards contains personal information that you need to update. For instance a flashcard may ask how often you travel back to your home town or in which commune you live.
-- **Other (to update)** Flashcards contains general information that you need to verify that it is up-to-date. Some of the information in the flashcards may be
+- **Personal (to update)** Flashcard contains personal information that you need to update. For instance a flashcard may ask how often you travel back to your home town or in which commune you live.
+- **Other (to update)** Flashcard contains general information that you need to verify that it is up-to-date. Some of the information in the flashcards may be
 outdated since they were created in 2021. For instance a flashcard may ask who is the current president of France. 
 ```
 > :WARNING: 
