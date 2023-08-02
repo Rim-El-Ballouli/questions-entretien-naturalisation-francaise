@@ -15,7 +15,8 @@ After each flashcard/question AnkiApp will give you the option to score how easy
 
 # Demo
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/imgs/demo.mp4))
+https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/assets/51033991/697f49fd-ed5f-4012-9444-2f1356a2db12
+
 
 # Get Started
 
