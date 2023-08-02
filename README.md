@@ -13,6 +13,10 @@ Each flashcard is composed of a **front** and **back** side. Each front side con
 
 After each flashcard/question AnkiApp will give you the option to score how easy was it to recall the answer. The grade you provide will have an impact how often you will this flashcard show up in comming revisions. There are four available scores from Fair, Hard, Good and Easy. After a couple of repitions AnkiApp will provide with the overall score of your learning. 
 
+# Demo
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/imgs/demo.mp4))
+
 # Get Started
 
 ### 1. Install AnkiApp
