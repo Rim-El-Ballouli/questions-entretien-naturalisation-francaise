@@ -1,15 +1,15 @@
 
-![intro-image](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/1.png)
+![intro-image](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/imgs/intro.png)
 
 # 185 Questions pour l'entretien d'assimilation à la société Française
 
 This is a set of flashcards created to help you prepare for the french nationality interview. The flashcards are created using [AnkiApp](https://www.ankiapp.com).  There are 185 flashcards including questions on *history*, *politics*, *geography* and *european union*. Below is a sample of questions.
-![](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/3.png)
+![](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/imgs/flashcards.png)
 
 [AnkiApp](https://www.ankiapp.com) uses an advanced algorithm developed and refined by neuroscientis to help fascilitate your learning by prioritizing the flashcard depending on previous performance evaluation.
 
 Each flashcard is composed of a **front** and **back** side. Each front side contains a question and the back side contains the answer. Once you start reviewing, AnkiApp will present you with the front side of the flashcards. Answer the question orally and then review the answer on the back side. Below is a sample flashcard's front and back side.
-![](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/4.png)
+![](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/imgs/front-back.png)
 
 After each flashcard/question AnkiApp will give you the option to score how easy was it to recall the answer. The grade you provide will have an impact how often you will this flashcard show up in comming revisions. There are four available scores from Fair, Hard, Good and Easy. After a couple of repitions AnkiApp will provide with the overall score of your learning. 
 
@@ -36,7 +36,7 @@ Once granted access, the flashcards set will be accessible from your account and
 # Tags
 The flashcards are annotated with tags to help in grouping them by topic and fascilitate study. The main tags are history, politics, geography, and european union. A description of each tag is present below.
 
-![tage image](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/2.png)
+![tage image](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/blob/main/imgs/tags.png)
 
 - **Date** Flashcard contains a date. Dates may be hard to memorize and that is the main reason why a tag is used to easily identify the collection of flashcards that contain a date. 
 - **Number** Flashcard contains a number. Numbers may be hard to memorize and that is the main reason why a tag is used to easily identify the collection of flashcards that contain a number. 
