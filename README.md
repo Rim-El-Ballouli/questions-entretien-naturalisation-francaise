@@ -33,10 +33,13 @@ AnkiApp works on Mac, Iphone, Android, Windows, Ipad. There is also a web versio
 To be able to use the flashcard set, you need to create an account on AnkiApp.
 
 ### 3. Join study group
-To have access to the flashcards you need to join the study group by clicking on the following [link](https://ankiapp.com/g/2xXr4S5q6fpTGJCB). You will be granted access to the group once your submission is reviewed. Please wait 24 hours to get access. If you are not granted access send a message in the discussion forum [here](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/discussions)
+To have access to the flashcards you need to join the study group by clicking on the following [link](https://ankiapp.com/g/2xXr4S5q6fpTGJCB). You will be granted access to the group once your submission is reviewed. Please wait 24 hours to get access. If you are not granted access send a message in the discussion forum [here](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/discussions).
 
 ### 3. Review
 Once access is granted, the flashcards set will be accessible from your account. Download it start reviewing. Good Luck!!  
+
+### 3. Feedback
+Happy to recieve your feedback [here](https://github.com/Rim-El-Ballouli/entretien-naturalisation-francaise/discussions).
 
 
 # Tags
